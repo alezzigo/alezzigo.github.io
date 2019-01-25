@@ -1,12 +1,12 @@
 title: Flow Trending
-author: flowtrending.com
+author: FlowTrending
 email: support@flowtrending.com
 description: >-
   Flow Trending (FT) is Information Technology company. 
   We develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.
   Our products is best known software products are the Maketing system for social network suck as ConnectPosts...
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'flowtrending.com'
+baseurl: '/'
+url: 'https://flowtrending.com'
 
 # Build settings
 defaults:
