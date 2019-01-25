@@ -1,26 +1,24 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2019-1-25 10:12:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/logo.png"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: HOME
   - link: "#"
-    link_text: Products
+    link_text: PRODUCTS
   - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: ShowCase
+    link_text: PRICING
   cta:
     url: https://flowtrending/products/connectposts
-    button_text: Try Id
+    button_text: TRY IT
 - template: hero-banner-w-image
   block: hero-2
-  headline: Connnect <br><strong>Posts</strong>
+  headline: Connect <br><strong>Posts</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Social 's
     content manager.
   cta:
