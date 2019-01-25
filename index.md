@@ -16,8 +16,8 @@ page_sections:
   - link: "#"
     link_text: ShowCase
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://flowtrending/products/connectposts
+    button_text: Try Id
 - template: hero-banner-w-image
   block: hero-2
   headline: Connnect <br><strong>Posts</strong>
@@ -65,5 +65,3 @@ page_sections:
   block: footer-1
   content: We ❤︎ FlowTrending INC
 ---
-
-foo bar
