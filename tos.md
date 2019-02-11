@@ -20,7 +20,7 @@ page_sections:
   block: text-1
   headline: Steps to Build a Site!
   content: <h1 id="termsandconditionsterms">Terms and Conditions ("Terms")</h1>
-    <p>Last updated: February 11, 2019</p>
+    February 11, 2019
     <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://flowtrending.com website (the "Service") operated by Flow Trending ("us", "we", or "our").</p>
     <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
     <p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for Flow Trending has been created with the help of <a href="https://termsfeed.com/">TermsFeed</a>.</p>
@@ -47,3 +47,4 @@ page_sections:
     <h2 id="contactus">Contact Us</h2>
     <h2 id="ifyouhaveanyquestionsaboutthesetermspleasecontactus">If you have any questions about these Terms, please contact us.</h2>
 ---
+
