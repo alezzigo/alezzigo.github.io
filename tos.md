@@ -16,8 +16,7 @@ page_sections:
   cta:
     url: https://flowtrending/products/connectposts
     button_text: TRY IT
----
-
+    
 # Terms and Conditions ("Terms")
 
 Last updated: February 11, 2019
@@ -71,3 +70,4 @@ By continuing to access or use our Service after those revisions become effectiv
 ## Contact Us
 
 If you have any questions about these Terms, please contact us.
+---
