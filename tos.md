@@ -1,3 +1,23 @@
+---
+layout: blocks
+title: Homepage
+date: 2019-1-25 10:12:00 +0000
+page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/logo.png"
+  navigation:
+  - link: "/"
+    link_text: HOME
+  - link: "#"
+    link_text: PRODUCTS
+  - link: "#"
+    link_text: PRICING
+  cta:
+    url: https://flowtrending/products/connectposts
+    button_text: TRY IT
+---
+
 # Terms and Conditions ("Terms")
 
 Last updated: February 11, 2019
