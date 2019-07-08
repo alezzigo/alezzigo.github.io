@@ -1,1 +1,1 @@
-var configDomain ="http://localhost:3000";
+window.configDomain ="http://localhost:3000";
